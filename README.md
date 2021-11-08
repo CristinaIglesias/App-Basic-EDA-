@@ -1,8 +1,8 @@
 #  APP Basic Data Analysis and Exploration
 !["Error image](logo_eda.jpg)
 
-# Launch teh web app:
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/CristinaIglesias/App-Basic_EDA/app.py/)
+# Launch the web app:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/CristinaIglesias/App-Basic-EDA/app.py/)
 
 
 **To recreate this web app on your own computer, do the following.**
