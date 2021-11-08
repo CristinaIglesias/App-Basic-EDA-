@@ -2,7 +2,7 @@
 !["Error image](logo_eda.jpg)
 
 # Launch the web app:
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/CristinaIglesias/App-Basic-EDA/app.py/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/CristinaIglesias/App-Basic-EDA-/main/app.py)
 
 
 **To recreate this web app on your own computer, do the following.**
